@@ -2,9 +2,9 @@
 body {
     background-color: lightblue;
 	font-family: Georgia, serif;
-	text-align: center;
+	text-align: right;
 	height: 100%;
-	margin: 40%;
+	margin: 0;
 }
 
 h1 {
