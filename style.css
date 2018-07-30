@@ -2,6 +2,7 @@
 body {
     background-color: lightblue;
 	font-family: Georgia, serif;
+	text-align: left;
 	height: 100%;
 	margin: 0;
 	width: 100%;
@@ -10,4 +11,5 @@ body {
 h1 {
     color: Chocolate;
     margin-left: 20px;
+    text-align: center;
 }
